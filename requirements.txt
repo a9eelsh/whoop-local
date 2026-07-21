@@ -1,0 +1,2 @@
+# Only needed for LIVE Bluetooth capture (--live). All decoding/analysis is stdlib-only.
+bleak>=0.21

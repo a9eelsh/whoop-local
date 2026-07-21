@@ -1,0 +1,10 @@
+# NEVER commit personal captures — they contain your strap serial, session token, and BLE MAC.
+*.json
+*.jsonl
+*.log
+capture*
+night*
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
